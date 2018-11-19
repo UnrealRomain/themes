@@ -1,2 +1,2 @@
 <?php
-echo 'Bonjour je suis Romain';
+display_hello();
