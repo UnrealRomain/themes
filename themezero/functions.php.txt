@@ -1,0 +1,2 @@
+<?php
+@import url("../twentythirteen/style.css");
